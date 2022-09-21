@@ -1,7 +1,6 @@
 import React from "react"
 import { Box } from "@chakra-ui/react"
-import {AiOutlineClose} from 'react-icons/ai'
-import {GiHamburgerMenu} from 'react-icons/gi'
+
 
 const MenuToggle = ({ toggle, isOpen }) => {
   return (
